@@ -26,13 +26,13 @@
             <div class="orb orb-one" data-parallax=".12"></div><div class="orb orb-two" data-parallax="-.07"></div>
             <div class="hero-copy reveal">
                 <p class="eyebrow"><span></span> Available for immediate joining</p>
-                <h1>Building the systems<br>that make <em>business move.</em></h1>
+                <h1>Building the systems<br>that take <em>business forward.</em></h1>
                 <p class="intro">I’m <strong>Ruban Kumar B</strong>, a Senior PHP Laravel Developer who turns complex workflows into reliable, scalable software.</p>
                 <div class="hero-actions"><a class="button button-primary" href="#experience">Explore my work <b>↘</b></a><a class="text-link" href="#contact">Let’s connect <span>→</span></a></div>
             </div>
             <div class="hero-portrait reveal reveal-delay">
                 <div class="portrait-ring"></div>
-                <div class="portrait-frame"><img src="{{ asset('images/ruban-profile.png') }}" alt="Ruban Kumar B"></div>
+                <div class="portrait-frame"><img src="{{ asset('images/ruban-profile.png') }}" alt="Ruban Kumar B"><span class="portrait-name">RUBAN</span></div>
                 <div class="experience-badge"><strong>07</strong><span>years of<br>building</span></div>
             </div>
             <div class="scroll-cue"><span></span> Scroll to discover</div>
